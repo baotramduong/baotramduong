@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bao Tram
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning Python and Data Science
-- 💞️ Some of my favorite topics to analyze are mental health & psychology
 - 📫 How to reach me 
   * Email: btramduong0810@gmail.com
   * LinkedIn: https://www.linkedin.com/in/bao-tram-duong/
